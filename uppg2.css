@@ -1,0 +1,18 @@
+body{
+color:red; background-color:yellow
+}
+tilte{
+	font-family: "Arial"; text-size: 22px;
+}
+.magentatext{
+	color:Magenta; background-color:LightPink; text-align: center;
+}
+.textright{
+	text-align: right;
+}
+.inramad{
+	border-style: solid; border-color: ForestGreen;
+}
+.nounderline{
+	text-decoration: none;
+}
